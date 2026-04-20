@@ -1,0 +1,72 @@
+/* BUTTON HOVER */
+.btn-primary:hover {
+  transform: scale(1.05);
+  background: #c8f0d4;
+}
+
+/* FADE IN */
+/* .fade-in {
+  animation: fadeIn 1s ease;
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+} */
+ .fade-in {
+  animation: fadeSlide 1.2s ease forwards;
+}
+
+@keyframes fadeSlide {
+  from {
+    opacity: 0;
+    transform: translateY(35px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* FLOAT */
+.float {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%,100% {transform: translateY(0);}
+  50% {transform: translateY(-10px);}
+}
+
+
+
+
+.float {
+  opacity: 0;
+  animation: cardRise 0.9s ease forwards;
+}
+
+.float:nth-child(1) {
+  animation-delay: 0.2s;
+}
+
+.float:nth-child(2) {
+  animation-delay: 0.4s;
+}
+
+.float:nth-child(3) {
+  animation-delay: 0.6s;
+}
+
+@keyframes cardRise {
+  from {
+    opacity: 0;
+    transform: translateY(35px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
