@@ -31,3 +31,7 @@ app.get("/.well-known/appspecific/com.chrome.devtools.json", (req, res) => {
   res.json({});
 });
 app.get("/favicon.ico", (req, res) => res.status(204).end());
+
+import productRoutes from "./routes/productRoutes.js";
+
+app.use("/api/products", productRoutes);

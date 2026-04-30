@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Basmati Rice", "price": 290, "label": "₹290 / 5kg bag", "moq": "MOQ: 10 units", "seller": "Sharma Traders" },
+  { "id": 2, "name": "Mustard Oil", "price": 180, "label": "₹180 / litre", "moq": "MOQ: 12 units", "seller": "Gupta Suppliers" },
+  { "id": 3, "name": "Sugar", "price": 45, "label": "₹45 / kg", "moq": "MOQ: 20 units", "seller": "MH Traders" },
+  { "id": 4, "name": "Toor Dal", "price": 120, "label": "₹120 / kg", "moq": "MOQ: 8 units", "seller": "Rajput Suppliers" },
+  { "id": 5, "name": "Tea Pack", "price": 210, "label": "₹210 / box", "moq": "MOQ: 6 units", "seller": "City Traders" },
+  { "id": 6, "name": "Wheat Flour", "price": 160, "label": "₹160 / 10kg bag", "moq": "MOQ: 10 units", "seller": "Sharma Traders" },
+  { "id": 7, "name": "Salt Pack", "price": 22, "label": "₹22 / kg", "moq": "MOQ: 25 units", "seller": "Gupta Suppliers" },
+  { "id": 8, "name": "Refined Oil", "price": 170, "label": "₹170 / litre", "moq": "MOQ: 10 units", "seller": "MH Traders" },
+  { "id": 9, "name": "Detergent", "price": 95, "label": "₹95 / pack", "moq": "MOQ: 15 units", "seller": "Rajput Suppliers" },
+  { "id": 10, "name": "Soap Pack", "price": 135, "label": "₹135 / box", "moq": "MOQ: 10 units", "seller": "City Traders" },
+  { "id": 11, "name": "Chana Dal", "price": 110, "label": "₹110 / kg", "moq": "MOQ: 8 units", "seller": "Sharma Traders" },
+  { "id": 12, "name": "Turmeric Powder", "price": 60, "label": "₹60 / 500g", "moq": "MOQ: 20 units", "seller": "Gupta Suppliers" },
+  { "id": 13, "name": "Red Chilli Powder", "price": 75, "label": "₹75 / 500g", "moq": "MOQ: 15 units", "seller": "MH Traders" },
+  { "id": 14, "name": "Jeera Pack", "price": 140, "label": "₹140 / kg", "moq": "MOQ: 10 units", "seller": "Rajput Suppliers" },
+  { "id": 15, "name": "Biscuits Box", "price": 85, "label": "₹85 / box", "moq": "MOQ: 12 units", "seller": "City Traders" },
+  { "id": 16, "name": "Poha", "price": 50, "label": "₹50 / kg", "moq": "MOQ: 20 units", "seller": "Sharma Traders" },
+  { "id": 17, "name": "Suji", "price": 42, "label": "₹42 / kg", "moq": "MOQ: 18 units", "seller": "Gupta Suppliers" },
+  { "id": 18, "name": "Besan", "price": 95, "label": "₹95 / kg", "moq": "MOQ: 10 units", "seller": "MH Traders" },
+  { "id": 19, "name": "Corn Flour", "price": 65, "label": "₹65 / kg", "moq": "MOQ: 15 units", "seller": "Rajput Suppliers" },
+  { "id": 20, "name": "Milk Powder", "price": 250, "label": "₹250 / box", "moq": "MOQ: 6 units", "seller": "City Traders" }
+]
